@@ -4,7 +4,7 @@ import requests
 import sys
 
 # 🔑 Insert your bot token
-BOT_TOKEN = "7995337304:AAHVFD_-qOwKjQQoMgJ_tYenmWVaw_5-XBU"
+BOT_TOKEN = ""
 CHAT_ID_FILE = "chat_id.json"
 
 def get_chat_id_from_api():
