@@ -54,20 +54,6 @@ The tool supports **Telegram notifications**. To enable:
 - **Summary Sheets**:
   - **Improvement** → metrics improved vs Init
   - **Regression** → metrics worsened vs Init
+  -  **FinalAverage** → FinalData
 - Additional Excel files for modular projects
 
-## Example Project Structure
-```
-performance_calculator/
-│
-├── config.py
-├── performanceInitial.py      # Data analysis and Excel report generation
-├── SnapshotExtractor.py       # Extract metrics from JProfiler snapshots
-├── scripts/
-│   ├── runall.ps1             # Executes the full workflow
-│   ├── SendMessage.py         # Sends Telegram notifications
-│
-├── performance_data/          # Raw performance CSV files
-└── results/
-    └── Performance.xlsx
-```
