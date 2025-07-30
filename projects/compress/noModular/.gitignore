@@ -1,0 +1,11 @@
+target
+.project
+.classpath
+.settings
+.idea
+.vscode
+*.iml
+*~
+/.externalToolBuilders/
+/maven-eclipse.xml
+/.java-version

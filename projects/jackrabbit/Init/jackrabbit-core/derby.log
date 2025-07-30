@@ -1,0 +1,413 @@
+----------------------------------------------------------------
+Sun Jun 22 20:20:01 CEST 2025:
+Booting Derby version The Apache Software Foundation - Apache Derby - 10.15.2.0 - (1873585): instance a816c00e-0197-98de-6337-000002726228 
+on database directory C:\Users\peschiera721\Documents\tesiMagistrale\progettiRefactoring\jackrabbit\inizialVersion\jackrabbit-core\target\repository\version\db with class loader jdk.internal.loader.ClassLoaders$AppClassLoader@5f5a92bb 
+Loaded from file:/C:/Users/peschiera721/.m2/repository/org/apache/derby/derby/10.15.2.0/derby-10.15.2.0.jar
+java.vendor=Oracle Corporation
+java.runtime.version=22.0.1+8-16
+user.dir=C:\Users\peschiera721\Documents\tesiMagistrale\progettiRefactoring\jackrabbit\inizialVersion\jackrabbit-core
+os.name=Windows 11
+os.arch=amd64
+os.version=10.0
+derby.system.home=null
+Database Class Loader started - derby.database.classpath=''
+----------------------------------------------------------------
+Sun Jun 22 20:20:02 CEST 2025:
+Booting Derby version The Apache Software Foundation - Apache Derby - 10.15.2.0 - (1873585): instance 888c4022-0197-98de-6337-000002726228 
+on database directory C:\Users\peschiera721\Documents\tesiMagistrale\progettiRefactoring\jackrabbit\inizialVersion\jackrabbit-core\target\repository\workspaces\default\db with class loader jdk.internal.loader.ClassLoaders$AppClassLoader@5f5a92bb 
+Loaded from file:/C:/Users/peschiera721/.m2/repository/org/apache/derby/derby/10.15.2.0/derby-10.15.2.0.jar
+java.vendor=Oracle Corporation
+java.runtime.version=22.0.1+8-16
+user.dir=C:\Users\peschiera721\Documents\tesiMagistrale\progettiRefactoring\jackrabbit\inizialVersion\jackrabbit-core
+os.name=Windows 11
+os.arch=amd64
+os.version=10.0
+derby.system.home=null
+Database Class Loader started - derby.database.classpath=''
+----------------------------------------------------------------
+Sun Jun 22 20:20:04 CEST 2025:
+Booting Derby version The Apache Software Foundation - Apache Derby - 10.15.2.0 - (1873585): instance 6965c036-0197-98de-6337-000002726228 
+on database directory C:\Users\peschiera721\Documents\tesiMagistrale\progettiRefactoring\jackrabbit\inizialVersion\jackrabbit-core\target\repository\workspaces\security\db with class loader jdk.internal.loader.ClassLoaders$AppClassLoader@5f5a92bb 
+Loaded from file:/C:/Users/peschiera721/.m2/repository/org/apache/derby/derby/10.15.2.0/derby-10.15.2.0.jar
+java.vendor=Oracle Corporation
+java.runtime.version=22.0.1+8-16
+user.dir=C:\Users\peschiera721\Documents\tesiMagistrale\progettiRefactoring\jackrabbit\inizialVersion\jackrabbit-core
+os.name=Windows 11
+os.arch=amd64
+os.version=10.0
+derby.system.home=null
+Database Class Loader started - derby.database.classpath=''
+----------------------------------------------------------------
+Sun Jun 22 20:20:05 CEST 2025:
+Booting Derby version The Apache Software Foundation - Apache Derby - 10.15.2.0 - (1873585): instance 9da4806c-0197-98de-6337-000002726228 
+on database directory C:\Users\peschiera721\Documents\tesiMagistrale\progettiRefactoring\jackrabbit\inizialVersion\jackrabbit-core\target\repository\workspaces\test\db with class loader jdk.internal.loader.ClassLoaders$AppClassLoader@5f5a92bb 
+Loaded from file:/C:/Users/peschiera721/.m2/repository/org/apache/derby/derby/10.15.2.0/derby-10.15.2.0.jar
+java.vendor=Oracle Corporation
+java.runtime.version=22.0.1+8-16
+user.dir=C:\Users\peschiera721\Documents\tesiMagistrale\progettiRefactoring\jackrabbit\inizialVersion\jackrabbit-core
+os.name=Windows 11
+os.arch=amd64
+os.version=10.0
+derby.system.home=null
+Database Class Loader started - derby.database.classpath=''
+----------------------------------------------------------------
+Sun Jun 22 20:20:07 CEST 2025:
+Booting Derby version The Apache Software Foundation - Apache Derby - 10.15.2.0 - (1873585): instance f526c18e-0197-98de-6337-000002726228 
+on database directory C:\Users\peschiera721\Documents\tesiMagistrale\progettiRefactoring\jackrabbit\inizialVersion\jackrabbit-core\target\repository-2\version\db with class loader jdk.internal.loader.ClassLoaders$AppClassLoader@5f5a92bb 
+Loaded from file:/C:/Users/peschiera721/.m2/repository/org/apache/derby/derby/10.15.2.0/derby-10.15.2.0.jar
+java.vendor=Oracle Corporation
+java.runtime.version=22.0.1+8-16
+user.dir=C:\Users\peschiera721\Documents\tesiMagistrale\progettiRefactoring\jackrabbit\inizialVersion\jackrabbit-core
+os.name=Windows 11
+os.arch=amd64
+os.version=10.0
+derby.system.home=null
+Database Class Loader started - derby.database.classpath=''
+----------------------------------------------------------------
+Sun Jun 22 20:20:08 CEST 2025:
+Booting Derby version The Apache Software Foundation - Apache Derby - 10.15.2.0 - (1873585): instance a4c782ad-0197-98de-6337-000002726228 
+on database directory C:\Users\peschiera721\Documents\tesiMagistrale\progettiRefactoring\jackrabbit\inizialVersion\jackrabbit-core\target\repository-2\workspaces\default\db with class loader jdk.internal.loader.ClassLoaders$AppClassLoader@5f5a92bb 
+Loaded from file:/C:/Users/peschiera721/.m2/repository/org/apache/derby/derby/10.15.2.0/derby-10.15.2.0.jar
+java.vendor=Oracle Corporation
+java.runtime.version=22.0.1+8-16
+user.dir=C:\Users\peschiera721\Documents\tesiMagistrale\progettiRefactoring\jackrabbit\inizialVersion\jackrabbit-core
+os.name=Windows 11
+os.arch=amd64
+os.version=10.0
+derby.system.home=null
+Database Class Loader started - derby.database.classpath=''
+----------------------------------------------------------------
+Sun Jun 22 20:20:10 CEST 2025:
+Booting Derby version The Apache Software Foundation - Apache Derby - 10.15.2.0 - (1873585): instance 8dcb83cd-0197-98de-6337-000002726228 
+on database directory C:\Users\peschiera721\Documents\tesiMagistrale\progettiRefactoring\jackrabbit\inizialVersion\jackrabbit-core\target\repository-2\workspaces\security\db with class loader jdk.internal.loader.ClassLoaders$AppClassLoader@5f5a92bb 
+Loaded from file:/C:/Users/peschiera721/.m2/repository/org/apache/derby/derby/10.15.2.0/derby-10.15.2.0.jar
+java.vendor=Oracle Corporation
+java.runtime.version=22.0.1+8-16
+user.dir=C:\Users\peschiera721\Documents\tesiMagistrale\progettiRefactoring\jackrabbit\inizialVersion\jackrabbit-core
+os.name=Windows 11
+os.arch=amd64
+os.version=10.0
+derby.system.home=null
+Database Class Loader started - derby.database.classpath=''
+----------------------------------------------------------------
+Sun Jun 22 20:20:13 CEST 2025:
+Booting Derby version The Apache Software Foundation - Apache Derby - 10.15.2.0 - (1873585): instance 65a28505-0197-98de-6337-000002726228 
+on database directory C:\Users\peschiera721\Documents\tesiMagistrale\progettiRefactoring\jackrabbit\inizialVersion\jackrabbit-core\target\repository-2\workspaces\test\db with class loader jdk.internal.loader.ClassLoaders$AppClassLoader@5f5a92bb 
+Loaded from file:/C:/Users/peschiera721/.m2/repository/org/apache/derby/derby/10.15.2.0/derby-10.15.2.0.jar
+java.vendor=Oracle Corporation
+java.runtime.version=22.0.1+8-16
+user.dir=C:\Users\peschiera721\Documents\tesiMagistrale\progettiRefactoring\jackrabbit\inizialVersion\jackrabbit-core
+os.name=Windows 11
+os.arch=amd64
+os.version=10.0
+derby.system.home=null
+Database Class Loader started - derby.database.classpath=''
+----------------------------------------------------------------
+Sun Jun 22 20:21:13 CEST 2025:
+Booting Derby version The Apache Software Foundation - Apache Derby - 10.15.2.0 - (1873585): instance 526dc70b-0197-98de-6337-000002726228 
+on database directory C:\Users\peschiera721\Documents\tesiMagistrale\progettiRefactoring\jackrabbit\inizialVersion\jackrabbit-core\target\test-db-datastore\db with class loader jdk.internal.loader.ClassLoaders$AppClassLoader@5f5a92bb 
+Loaded from file:/C:/Users/peschiera721/.m2/repository/org/apache/derby/derby/10.15.2.0/derby-10.15.2.0.jar
+java.vendor=Oracle Corporation
+java.runtime.version=22.0.1+8-16
+user.dir=C:\Users\peschiera721\Documents\tesiMagistrale\progettiRefactoring\jackrabbit\inizialVersion\jackrabbit-core
+os.name=Windows 11
+os.arch=amd64
+os.version=10.0
+derby.system.home=null
+Database Class Loader started - derby.database.classpath=''
+----------------------------------------------------------------
+Sun Jun 22 20:21:13 CEST 2025:
+Booting Derby version The Apache Software Foundation - Apache Derby - 10.15.2.0 - (1873585): instance f5f3870d-0197-98de-6337-000002726228 
+on database directory C:\Users\peschiera721\Documents\tesiMagistrale\progettiRefactoring\jackrabbit\inizialVersion\jackrabbit-core\target\GCSubtreeMoveTest\test\version\db with class loader jdk.internal.loader.ClassLoaders$AppClassLoader@5f5a92bb 
+Loaded from file:/C:/Users/peschiera721/.m2/repository/org/apache/derby/derby/10.15.2.0/derby-10.15.2.0.jar
+java.vendor=Oracle Corporation
+java.runtime.version=22.0.1+8-16
+user.dir=C:\Users\peschiera721\Documents\tesiMagistrale\progettiRefactoring\jackrabbit\inizialVersion\jackrabbit-core
+os.name=Windows 11
+os.arch=amd64
+os.version=10.0
+derby.system.home=null
+----------------------------------------------------------------
+Sun Jun 22 20:21:13 CEST 2025:
+Booting Derby version The Apache Software Foundation - Apache Derby - 10.15.2.0 - (1873585): instance dfb6c70e-0197-98de-6337-000002726228 
+on database directory C:\Users\peschiera721\Documents\tesiMagistrale\progettiRefactoring\jackrabbit\inizialVersion\jackrabbit-core\target\repository-datastore-test\version\db with class loader jdk.internal.loader.ClassLoaders$AppClassLoader@5f5a92bb 
+Loaded from file:/C:/Users/peschiera721/.m2/repository/org/apache/derby/derby/10.15.2.0/derby-10.15.2.0.jar
+java.vendor=Oracle Corporation
+java.runtime.version=22.0.1+8-16
+user.dir=C:\Users\peschiera721\Documents\tesiMagistrale\progettiRefactoring\jackrabbit\inizialVersion\jackrabbit-core
+os.name=Windows 11
+os.arch=amd64
+os.version=10.0
+derby.system.home=null
+Database Class Loader started - derby.database.classpath=''
+Database Class Loader started - derby.database.classpath=''
+----------------------------------------------------------------
+Sun Jun 22 20:21:13 CEST 2025:
+Booting Derby version The Apache Software Foundation - Apache Derby - 10.15.2.0 - (1873585): instance bd020711-0197-98de-6337-000002726228 
+on database directory C:\Users\peschiera721\Documents\tesiMagistrale\progettiRefactoring\jackrabbit\inizialVersion\jackrabbit-core\target\repository\workspaces\index-format-v1\db with class loader jdk.internal.loader.ClassLoaders$AppClassLoader@5f5a92bb 
+Loaded from file:/C:/Users/peschiera721/.m2/repository/org/apache/derby/derby/10.15.2.0/derby-10.15.2.0.jar
+java.vendor=Oracle Corporation
+java.runtime.version=22.0.1+8-16
+user.dir=C:\Users\peschiera721\Documents\tesiMagistrale\progettiRefactoring\jackrabbit\inizialVersion\jackrabbit-core
+os.name=Windows 11
+os.arch=amd64
+os.version=10.0
+derby.system.home=null
+Database Class Loader started - derby.database.classpath=''
+----------------------------------------------------------------
+Sun Jun 22 20:21:15 CEST 2025:
+Booting Derby version The Apache Software Foundation - Apache Derby - 10.15.2.0 - (1873585): instance 3cdfcb5b-0197-98de-6337-000002726228 
+on database directory C:\Users\peschiera721\Documents\tesiMagistrale\progettiRefactoring\jackrabbit\inizialVersion\jackrabbit-core\target\GCSubtreeMoveTest\test\workspaces\default\db with class loader jdk.internal.loader.ClassLoaders$AppClassLoader@5f5a92bb 
+Loaded from file:/C:/Users/peschiera721/.m2/repository/org/apache/derby/derby/10.15.2.0/derby-10.15.2.0.jar
+java.vendor=Oracle Corporation
+java.runtime.version=22.0.1+8-16
+user.dir=C:\Users\peschiera721\Documents\tesiMagistrale\progettiRefactoring\jackrabbit\inizialVersion\jackrabbit-core
+os.name=Windows 11
+os.arch=amd64
+os.version=10.0
+derby.system.home=null
+Database Class Loader started - derby.database.classpath=''
+----------------------------------------------------------------
+Sun Jun 22 20:21:15 CEST 2025:
+Booting Derby version The Apache Software Foundation - Apache Derby - 10.15.2.0 - (1873585): instance 666a4b72-0197-98de-6337-000002726228 
+on database directory C:\Users\peschiera721\Documents\tesiMagistrale\progettiRefactoring\jackrabbit\inizialVersion\jackrabbit-core\target\repository-datastore-test\workspaces\default\db with class loader jdk.internal.loader.ClassLoaders$AppClassLoader@5f5a92bb 
+Loaded from file:/C:/Users/peschiera721/.m2/repository/org/apache/derby/derby/10.15.2.0/derby-10.15.2.0.jar
+java.vendor=Oracle Corporation
+java.runtime.version=22.0.1+8-16
+user.dir=C:\Users\peschiera721\Documents\tesiMagistrale\progettiRefactoring\jackrabbit\inizialVersion\jackrabbit-core
+os.name=Windows 11
+os.arch=amd64
+os.version=10.0
+derby.system.home=null
+Database Class Loader started - derby.database.classpath=''
+----------------------------------------------------------------
+Sun Jun 22 20:21:15 CEST 2025:
+Booting Derby version The Apache Software Foundation - Apache Derby - 10.15.2.0 - (1873585): instance 40358d64-0197-98de-6337-000002726228 
+on database directory C:\Users\peschiera721\Documents\tesiMagistrale\progettiRefactoring\jackrabbit\inizialVersion\jackrabbit-core\target\repository\workspaces\index-format-v2\db with class loader jdk.internal.loader.ClassLoaders$AppClassLoader@5f5a92bb 
+Loaded from file:/C:/Users/peschiera721/.m2/repository/org/apache/derby/derby/10.15.2.0/derby-10.15.2.0.jar
+java.vendor=Oracle Corporation
+java.runtime.version=22.0.1+8-16
+user.dir=C:\Users\peschiera721\Documents\tesiMagistrale\progettiRefactoring\jackrabbit\inizialVersion\jackrabbit-core
+os.name=Windows 11
+os.arch=amd64
+os.version=10.0
+derby.system.home=null
+Database Class Loader started - derby.database.classpath=''
+----------------------------------------------------------------
+Sun Jun 22 20:21:17 CEST 2025:
+Booting Derby version The Apache Software Foundation - Apache Derby - 10.15.2.0 - (1873585): instance 02ec4edf-0197-98de-6337-000002726228 
+on database directory C:\Users\peschiera721\Documents\tesiMagistrale\progettiRefactoring\jackrabbit\inizialVersion\jackrabbit-core\target\repository\workspaces\indexing-test-2\db with class loader jdk.internal.loader.ClassLoaders$AppClassLoader@5f5a92bb 
+Loaded from file:/C:/Users/peschiera721/.m2/repository/org/apache/derby/derby/10.15.2.0/derby-10.15.2.0.jar
+java.vendor=Oracle Corporation
+java.runtime.version=22.0.1+8-16
+user.dir=C:\Users\peschiera721\Documents\tesiMagistrale\progettiRefactoring\jackrabbit\inizialVersion\jackrabbit-core
+os.name=Windows 11
+os.arch=amd64
+os.version=10.0
+derby.system.home=null
+Database Class Loader started - derby.database.classpath=''
+----------------------------------------------------------------
+Sun Jun 22 20:21:18 CEST 2025:
+Booting Derby version The Apache Software Foundation - Apache Derby - 10.15.2.0 - (1873585): instance c7588fcc-0197-98de-6337-000002726228 
+on database directory C:\Users\peschiera721\Documents\tesiMagistrale\progettiRefactoring\jackrabbit\inizialVersion\jackrabbit-core\target\GCSubtreeMoveTest\test\workspaces\security\db with class loader jdk.internal.loader.ClassLoaders$AppClassLoader@5f5a92bb 
+Loaded from file:/C:/Users/peschiera721/.m2/repository/org/apache/derby/derby/10.15.2.0/derby-10.15.2.0.jar
+java.vendor=Oracle Corporation
+java.runtime.version=22.0.1+8-16
+user.dir=C:\Users\peschiera721\Documents\tesiMagistrale\progettiRefactoring\jackrabbit\inizialVersion\jackrabbit-core
+os.name=Windows 11
+os.arch=amd64
+os.version=10.0
+derby.system.home=null
+Database Class Loader started - derby.database.classpath=''
+----------------------------------------------------------------
+----------------------------------------------------------------
+Sun Jun 22 20:21:18 CEST 2025:
+Booting Derby version The Apache Software Foundation - Apache Derby - 10.15.2.0 - (1873585): instance 92ec8fd5-0197-98de-6337-000002726228 
+on database directory C:\Users\peschiera721\Documents\tesiMagistrale\progettiRefactoring\jackrabbit\inizialVersion\jackrabbit-core\target\repository-datastore-test\workspaces\security\db with class loader jdk.internal.loader.ClassLoaders$AppClassLoader@5f5a92bb 
+Loaded from file:/C:/Users/peschiera721/.m2/repository/org/apache/derby/derby/10.15.2.0/derby-10.15.2.0.jar
+java.vendor=Oracle Corporation
+java.runtime.version=22.0.1+8-16
+user.dir=C:\Users\peschiera721\Documents\tesiMagistrale\progettiRefactoring\jackrabbit\inizialVersion\jackrabbit-core
+os.name=Windows 11
+os.arch=amd64
+os.version=10.0
+derby.system.home=null
+Sun Jun 22 20:21:18 CEST 2025:
+Booting Derby version The Apache Software Foundation - Apache Derby - 10.15.2.0 - (1873585): instance bee1cfd6-0197-98de-6337-000002726228 
+on database directory C:\Users\peschiera721\Documents\tesiMagistrale\progettiRefactoring\jackrabbit\inizialVersion\jackrabbit-core\target\repository-2\workspaces\index-format-v1\db with class loader jdk.internal.loader.ClassLoaders$AppClassLoader@5f5a92bb 
+Loaded from file:/C:/Users/peschiera721/.m2/repository/org/apache/derby/derby/10.15.2.0/derby-10.15.2.0.jar
+java.vendor=Oracle Corporation
+java.runtime.version=22.0.1+8-16
+user.dir=C:\Users\peschiera721\Documents\tesiMagistrale\progettiRefactoring\jackrabbit\inizialVersion\jackrabbit-core
+os.name=Windows 11
+os.arch=amd64
+os.version=10.0
+derby.system.home=null
+Database Class Loader started - derby.database.classpath=''
+Database Class Loader started - derby.database.classpath=''
+----------------------------------------------------------------
+Sun Jun 22 20:21:18 CEST 2025:
+Booting Derby version The Apache Software Foundation - Apache Derby - 10.15.2.0 - (1873585): instance 186d12d8-0197-98de-6337-000002726228 
+on database directory C:\Users\peschiera721\Documents\tesiMagistrale\progettiRefactoring\jackrabbit\inizialVersion\jackrabbit-core\target\repository\workspaces\indexing-test\db with class loader jdk.internal.loader.ClassLoaders$AppClassLoader@5f5a92bb 
+Loaded from file:/C:/Users/peschiera721/.m2/repository/org/apache/derby/derby/10.15.2.0/derby-10.15.2.0.jar
+java.vendor=Oracle Corporation
+java.runtime.version=22.0.1+8-16
+user.dir=C:\Users\peschiera721\Documents\tesiMagistrale\progettiRefactoring\jackrabbit\inizialVersion\jackrabbit-core
+os.name=Windows 11
+os.arch=amd64
+os.version=10.0
+derby.system.home=null
+Database Class Loader started - derby.database.classpath=''
+----------------------------------------------------------------
+Sun Jun 22 20:21:19 CEST 2025:
+Booting Derby version The Apache Software Foundation - Apache Derby - 10.15.2.0 - (1873585): instance e9fc9455-0197-98de-6337-000002726228 
+on database directory C:\Users\peschiera721\Documents\tesiMagistrale\progettiRefactoring\jackrabbit\inizialVersion\jackrabbit-core\target\repository-2\workspaces\index-format-v2\db with class loader jdk.internal.loader.ClassLoaders$AppClassLoader@5f5a92bb 
+Loaded from file:/C:/Users/peschiera721/.m2/repository/org/apache/derby/derby/10.15.2.0/derby-10.15.2.0.jar
+java.vendor=Oracle Corporation
+java.runtime.version=22.0.1+8-16
+user.dir=C:\Users\peschiera721\Documents\tesiMagistrale\progettiRefactoring\jackrabbit\inizialVersion\jackrabbit-core
+os.name=Windows 11
+os.arch=amd64
+os.version=10.0
+derby.system.home=null
+Database Class Loader started - derby.database.classpath=''
+----------------------------------------------------------------
+Sun Jun 22 20:21:20 CEST 2025:
+Shutting down instance 666a4b72-0197-98de-6337-000002726228 on database directory C:\Users\peschiera721\Documents\tesiMagistrale\progettiRefactoring\jackrabbit\inizialVersion\jackrabbit-core\target\repository-datastore-test\workspaces\default\db with class loader jdk.internal.loader.ClassLoaders$AppClassLoader@5f5a92bb 
+----------------------------------------------------------------
+Sun Jun 22 20:21:20 CEST 2025:
+Shutting down instance 92ec8fd5-0197-98de-6337-000002726228 on database directory C:\Users\peschiera721\Documents\tesiMagistrale\progettiRefactoring\jackrabbit\inizialVersion\jackrabbit-core\target\repository-datastore-test\workspaces\security\db with class loader jdk.internal.loader.ClassLoaders$AppClassLoader@5f5a92bb 
+----------------------------------------------------------------
+Sun Jun 22 20:21:20 CEST 2025:
+Booting Derby version The Apache Software Foundation - Apache Derby - 10.15.2.0 - (1873585): instance 58105582-0197-98de-6337-000002726228 
+on database directory C:\Users\peschiera721\Documents\tesiMagistrale\progettiRefactoring\jackrabbit\inizialVersion\jackrabbit-core\target\repository\workspaces\index-format-v3\db with class loader jdk.internal.loader.ClassLoaders$AppClassLoader@5f5a92bb 
+Loaded from file:/C:/Users/peschiera721/.m2/repository/org/apache/derby/derby/10.15.2.0/derby-10.15.2.0.jar
+java.vendor=Oracle Corporation
+java.runtime.version=22.0.1+8-16
+user.dir=C:\Users\peschiera721\Documents\tesiMagistrale\progettiRefactoring\jackrabbit\inizialVersion\jackrabbit-core
+os.name=Windows 11
+os.arch=amd64
+os.version=10.0
+derby.system.home=null
+Database Class Loader started - derby.database.classpath=''
+----------------------------------------------------------------
+Sun Jun 22 20:21:20 CEST 2025:
+Shutting down instance dfb6c70e-0197-98de-6337-000002726228 on database directory C:\Users\peschiera721\Documents\tesiMagistrale\progettiRefactoring\jackrabbit\inizialVersion\jackrabbit-core\target\repository-datastore-test\version\db with class loader jdk.internal.loader.ClassLoaders$AppClassLoader@5f5a92bb 
+----------------------------------------------------------------
+Sun Jun 22 20:21:21 CEST 2025:
+Booting Derby version The Apache Software Foundation - Apache Derby - 10.15.2.0 - (1873585): instance 2c9d16a9-0197-98de-6337-000002726228 
+on database directory C:\Users\peschiera721\Documents\tesiMagistrale\progettiRefactoring\jackrabbit\inizialVersion\jackrabbit-core\target\repository-2\workspaces\indexing-test-2\db with class loader jdk.internal.loader.ClassLoaders$AppClassLoader@5f5a92bb 
+Loaded from file:/C:/Users/peschiera721/.m2/repository/org/apache/derby/derby/10.15.2.0/derby-10.15.2.0.jar
+java.vendor=Oracle Corporation
+java.runtime.version=22.0.1+8-16
+user.dir=C:\Users\peschiera721\Documents\tesiMagistrale\progettiRefactoring\jackrabbit\inizialVersion\jackrabbit-core
+os.name=Windows 11
+os.arch=amd64
+os.version=10.0
+derby.system.home=null
+Database Class Loader started - derby.database.classpath=''
+----------------------------------------------------------------
+Sun Jun 22 20:21:22 CEST 2025:
+Booting Derby version The Apache Software Foundation - Apache Derby - 10.15.2.0 - (1873585): instance 1d3497ec-0197-98de-6337-000002726228 
+on database directory C:\Users\peschiera721\Documents\tesiMagistrale\progettiRefactoring\jackrabbit\inizialVersion\jackrabbit-core\target\repository-2\workspaces\indexing-test\db with class loader jdk.internal.loader.ClassLoaders$AppClassLoader@5f5a92bb 
+Loaded from file:/C:/Users/peschiera721/.m2/repository/org/apache/derby/derby/10.15.2.0/derby-10.15.2.0.jar
+java.vendor=Oracle Corporation
+java.runtime.version=22.0.1+8-16
+user.dir=C:\Users\peschiera721\Documents\tesiMagistrale\progettiRefactoring\jackrabbit\inizialVersion\jackrabbit-core
+os.name=Windows 11
+os.arch=amd64
+os.version=10.0
+derby.system.home=null
+Database Class Loader started - derby.database.classpath=''
+----------------------------------------------------------------
+Sun Jun 22 20:21:23 CEST 2025:
+Booting Derby version The Apache Software Foundation - Apache Derby - 10.15.2.0 - (1873585): instance 81add90b-0197-98de-6337-000002726228 
+on database directory C:\Users\peschiera721\Documents\tesiMagistrale\progettiRefactoring\jackrabbit\inizialVersion\jackrabbit-core\target\repository-2\workspaces\index-format-v3\db with class loader jdk.internal.loader.ClassLoaders$AppClassLoader@5f5a92bb 
+Loaded from file:/C:/Users/peschiera721/.m2/repository/org/apache/derby/derby/10.15.2.0/derby-10.15.2.0.jar
+java.vendor=Oracle Corporation
+java.runtime.version=22.0.1+8-16
+user.dir=C:\Users\peschiera721\Documents\tesiMagistrale\progettiRefactoring\jackrabbit\inizialVersion\jackrabbit-core
+os.name=Windows 11
+os.arch=amd64
+os.version=10.0
+derby.system.home=null
+Database Class Loader started - derby.database.classpath=''
+----------------------------------------------------------------
+Sun Jun 22 20:21:27 CEST 2025:
+Shutting down instance 3cdfcb5b-0197-98de-6337-000002726228 on database directory C:\Users\peschiera721\Documents\tesiMagistrale\progettiRefactoring\jackrabbit\inizialVersion\jackrabbit-core\target\GCSubtreeMoveTest\test\workspaces\default\db with class loader jdk.internal.loader.ClassLoaders$AppClassLoader@5f5a92bb 
+----------------------------------------------------------------
+Sun Jun 22 20:21:27 CEST 2025:
+Shutting down instance c7588fcc-0197-98de-6337-000002726228 on database directory C:\Users\peschiera721\Documents\tesiMagistrale\progettiRefactoring\jackrabbit\inizialVersion\jackrabbit-core\target\GCSubtreeMoveTest\test\workspaces\security\db with class loader jdk.internal.loader.ClassLoaders$AppClassLoader@5f5a92bb 
+----------------------------------------------------------------
+Sun Jun 22 20:21:27 CEST 2025:
+Shutting down instance f5f3870d-0197-98de-6337-000002726228 on database directory C:\Users\peschiera721\Documents\tesiMagistrale\progettiRefactoring\jackrabbit\inizialVersion\jackrabbit-core\target\GCSubtreeMoveTest\test\version\db with class loader jdk.internal.loader.ClassLoaders$AppClassLoader@5f5a92bb 
+----------------------------------------------------------------
+Sun Jun 22 20:21:45 CEST 2025:
+Booting Derby version The Apache Software Foundation - Apache Derby - 10.15.2.0 - (1873585): instance 22aeda4e-0197-98de-6337-000002726228 
+on database directory C:\Users\peschiera721\AppData\Local\Temp\jackrabbit2603389837803216351derbyfs with class loader jdk.internal.loader.ClassLoaders$AppClassLoader@5f5a92bb 
+Loaded from file:/C:/Users/peschiera721/.m2/repository/org/apache/derby/derby/10.15.2.0/derby-10.15.2.0.jar
+java.vendor=Oracle Corporation
+java.runtime.version=22.0.1+8-16
+user.dir=C:\Users\peschiera721\Documents\tesiMagistrale\progettiRefactoring\jackrabbit\inizialVersion\jackrabbit-core
+os.name=Windows 11
+os.arch=amd64
+os.version=10.0
+derby.system.home=null
+Database Class Loader started - derby.database.classpath=''
+----------------------------------------------------------------
+Sun Jun 22 20:21:46 CEST 2025:
+Shutting down instance 22aeda4e-0197-98de-6337-000002726228 on database directory C:\Users\peschiera721\AppData\Local\Temp\jackrabbit2603389837803216351derbyfs with class loader jdk.internal.loader.ClassLoaders$AppClassLoader@5f5a92bb 
+----------------------------------------------------------------
+Sun Jun 22 20:30:00 CEST 2025:
+Shutting down instance bd020711-0197-98de-6337-000002726228 on database directory C:\Users\peschiera721\Documents\tesiMagistrale\progettiRefactoring\jackrabbit\inizialVersion\jackrabbit-core\target\repository\workspaces\index-format-v1\db with class loader jdk.internal.loader.ClassLoaders$AppClassLoader@5f5a92bb 
+----------------------------------------------------------------
+Sun Jun 22 20:30:00 CEST 2025:
+Shutting down instance 40358d64-0197-98de-6337-000002726228 on database directory C:\Users\peschiera721\Documents\tesiMagistrale\progettiRefactoring\jackrabbit\inizialVersion\jackrabbit-core\target\repository\workspaces\index-format-v2\db with class loader jdk.internal.loader.ClassLoaders$AppClassLoader@5f5a92bb 
+----------------------------------------------------------------
+Sun Jun 22 20:30:00 CEST 2025:
+Shutting down instance 888c4022-0197-98de-6337-000002726228 on database directory C:\Users\peschiera721\Documents\tesiMagistrale\progettiRefactoring\jackrabbit\inizialVersion\jackrabbit-core\target\repository\workspaces\default\db with class loader jdk.internal.loader.ClassLoaders$AppClassLoader@5f5a92bb 
+----------------------------------------------------------------
+Sun Jun 22 20:30:00 CEST 2025:
+Shutting down instance 6965c036-0197-98de-6337-000002726228 on database directory C:\Users\peschiera721\Documents\tesiMagistrale\progettiRefactoring\jackrabbit\inizialVersion\jackrabbit-core\target\repository\workspaces\security\db with class loader jdk.internal.loader.ClassLoaders$AppClassLoader@5f5a92bb 
+----------------------------------------------------------------
+Sun Jun 22 20:30:00 CEST 2025:
+Shutting down instance 9da4806c-0197-98de-6337-000002726228 on database directory C:\Users\peschiera721\Documents\tesiMagistrale\progettiRefactoring\jackrabbit\inizialVersion\jackrabbit-core\target\repository\workspaces\test\db with class loader jdk.internal.loader.ClassLoaders$AppClassLoader@5f5a92bb 
+----------------------------------------------------------------
+Sun Jun 22 20:30:00 CEST 2025:
+Shutting down instance 02ec4edf-0197-98de-6337-000002726228 on database directory C:\Users\peschiera721\Documents\tesiMagistrale\progettiRefactoring\jackrabbit\inizialVersion\jackrabbit-core\target\repository\workspaces\indexing-test-2\db with class loader jdk.internal.loader.ClassLoaders$AppClassLoader@5f5a92bb 
+----------------------------------------------------------------
+Sun Jun 22 20:30:00 CEST 2025:
+Shutting down instance 186d12d8-0197-98de-6337-000002726228 on database directory C:\Users\peschiera721\Documents\tesiMagistrale\progettiRefactoring\jackrabbit\inizialVersion\jackrabbit-core\target\repository\workspaces\indexing-test\db with class loader jdk.internal.loader.ClassLoaders$AppClassLoader@5f5a92bb 
+----------------------------------------------------------------
+Sun Jun 22 20:30:00 CEST 2025:
+Shutting down instance 58105582-0197-98de-6337-000002726228 on database directory C:\Users\peschiera721\Documents\tesiMagistrale\progettiRefactoring\jackrabbit\inizialVersion\jackrabbit-core\target\repository\workspaces\index-format-v3\db with class loader jdk.internal.loader.ClassLoaders$AppClassLoader@5f5a92bb 
+----------------------------------------------------------------
+Sun Jun 22 20:30:00 CEST 2025:
+Shutting down instance a816c00e-0197-98de-6337-000002726228 on database directory C:\Users\peschiera721\Documents\tesiMagistrale\progettiRefactoring\jackrabbit\inizialVersion\jackrabbit-core\target\repository\version\db with class loader jdk.internal.loader.ClassLoaders$AppClassLoader@5f5a92bb 
+----------------------------------------------------------------
+Sun Jun 22 20:30:01 CEST 2025:
+Shutting down instance bee1cfd6-0197-98de-6337-000002726228 on database directory C:\Users\peschiera721\Documents\tesiMagistrale\progettiRefactoring\jackrabbit\inizialVersion\jackrabbit-core\target\repository-2\workspaces\index-format-v1\db with class loader jdk.internal.loader.ClassLoaders$AppClassLoader@5f5a92bb 
+----------------------------------------------------------------
+Sun Jun 22 20:30:01 CEST 2025:
+Shutting down instance e9fc9455-0197-98de-6337-000002726228 on database directory C:\Users\peschiera721\Documents\tesiMagistrale\progettiRefactoring\jackrabbit\inizialVersion\jackrabbit-core\target\repository-2\workspaces\index-format-v2\db with class loader jdk.internal.loader.ClassLoaders$AppClassLoader@5f5a92bb 
+----------------------------------------------------------------
+Sun Jun 22 20:30:01 CEST 2025:
+Shutting down instance a4c782ad-0197-98de-6337-000002726228 on database directory C:\Users\peschiera721\Documents\tesiMagistrale\progettiRefactoring\jackrabbit\inizialVersion\jackrabbit-core\target\repository-2\workspaces\default\db with class loader jdk.internal.loader.ClassLoaders$AppClassLoader@5f5a92bb 
+----------------------------------------------------------------
+Sun Jun 22 20:30:01 CEST 2025:
+Shutting down instance 8dcb83cd-0197-98de-6337-000002726228 on database directory C:\Users\peschiera721\Documents\tesiMagistrale\progettiRefactoring\jackrabbit\inizialVersion\jackrabbit-core\target\repository-2\workspaces\security\db with class loader jdk.internal.loader.ClassLoaders$AppClassLoader@5f5a92bb 
+----------------------------------------------------------------
+Sun Jun 22 20:30:01 CEST 2025:
+Shutting down instance 65a28505-0197-98de-6337-000002726228 on database directory C:\Users\peschiera721\Documents\tesiMagistrale\progettiRefactoring\jackrabbit\inizialVersion\jackrabbit-core\target\repository-2\workspaces\test\db with class loader jdk.internal.loader.ClassLoaders$AppClassLoader@5f5a92bb 
+----------------------------------------------------------------
+Sun Jun 22 20:30:01 CEST 2025:
+Shutting down instance 2c9d16a9-0197-98de-6337-000002726228 on database directory C:\Users\peschiera721\Documents\tesiMagistrale\progettiRefactoring\jackrabbit\inizialVersion\jackrabbit-core\target\repository-2\workspaces\indexing-test-2\db with class loader jdk.internal.loader.ClassLoaders$AppClassLoader@5f5a92bb 
+----------------------------------------------------------------
+Sun Jun 22 20:30:01 CEST 2025:
+Shutting down instance 1d3497ec-0197-98de-6337-000002726228 on database directory C:\Users\peschiera721\Documents\tesiMagistrale\progettiRefactoring\jackrabbit\inizialVersion\jackrabbit-core\target\repository-2\workspaces\indexing-test\db with class loader jdk.internal.loader.ClassLoaders$AppClassLoader@5f5a92bb 
+----------------------------------------------------------------
+Sun Jun 22 20:30:01 CEST 2025:
+Shutting down instance 81add90b-0197-98de-6337-000002726228 on database directory C:\Users\peschiera721\Documents\tesiMagistrale\progettiRefactoring\jackrabbit\inizialVersion\jackrabbit-core\target\repository-2\workspaces\index-format-v3\db with class loader jdk.internal.loader.ClassLoaders$AppClassLoader@5f5a92bb 
+----------------------------------------------------------------
+Sun Jun 22 20:30:01 CEST 2025:
+Shutting down instance f526c18e-0197-98de-6337-000002726228 on database directory C:\Users\peschiera721\Documents\tesiMagistrale\progettiRefactoring\jackrabbit\inizialVersion\jackrabbit-core\target\repository-2\version\db with class loader jdk.internal.loader.ClassLoaders$AppClassLoader@5f5a92bb 

@@ -1,0 +1,1 @@
+package org.apache.jackrabbit.spi.commons.exception;
